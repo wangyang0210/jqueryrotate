@@ -1,0 +1,22 @@
+{
+    "name": "jqueryrotate",
+    "version": "0.0.1",
+    "description": "npm package for jqueryrotate v2.3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wangyang0210/jqueryrotate.git"
+    },
+    "keywords": [
+        "jqueryrotate"
+    ],
+    "author": "wilq32-pwitkowski && wangyang0210",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wangyang0210/jqueryrotate/issues"
+    },
+    "homepage": "https://github.com/wangyang0210/jqueryrotate#readme"
+}
